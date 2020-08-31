@@ -1,0 +1,25 @@
+{
+  "name": "recruiting-exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jghan011/recruiting-exercises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jghan011/recruiting-exercises/issues"
+  },
+  "homepage": "https://github.com/jghan011/recruiting-exercises#readme",
+  "dependencies": {
+    "mocha": "^8.1.2"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}
